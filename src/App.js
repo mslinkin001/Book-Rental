@@ -9,7 +9,7 @@ const books = [
     pages: 1031,
     author: "James R. R. Tolkien",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit  esse molestie consequat, vel illum dolore eu feugiat ",
+      "A ring with mysterious powers lands in the hands of a young hobbit, Frodo. Under the guidance of Gandalf, a wizard, he and his three friends set out on a journey and land in the Elvish kingdom.",
     rating: 4,
     isbn: 9780007203581,
   },
@@ -19,7 +19,7 @@ const books = [
     pages: 293,
     author: "J. K. Rowling",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit  esse molestie consequat, vel illum dolore eu feugiat ",
+      "In his fourth year at Hogwarts, Harry must reluctantly compete in an ancient wizard tournament after someone mysteriously selects his name, while the Dark Lord secretly conspires something sinister.",
     rating: 3,
     isbn: 9781338299175,
   },
@@ -29,7 +29,37 @@ const books = [
     pages: 853,
     author: "George R. R. Martin",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit  esse molestie consequat, vel illum dolore eu feugiat ",
+      "The novel follows multiple storylines as the War of the Five Kings intensifies, Daenerys Targaryen builds her forces in the East, and the Night's Watch faces a growing threat from the Others beyond the Wall",
+    rating: 4,
+    isbn: 9783442268467,
+  },
+  {
+    image: "../criminally-good.jpg",
+    name: "Artemis Fow",
+    pages: 524,
+    author: "Eion Colfer",
+    description:
+      "In an attempt to find his missing father, Artemis Fowl, a 12-year-old criminal prodigy, comes across the secret world of fairies. Soon, he ends up in a deadly battle with the powerful fairies.",
+    rating: 4,
+    isbn: 9783442268467,
+  },
+  {
+    image: "../the-lightning-thief.jpg",
+    name: "Percy Jackson: The Lightning Thief",
+    pages: 357,
+    author: "Rick Riordan",
+    description:
+      "The Lightning Thief is a 2005 American fantasy-adventure novel based on Greek mythology, the first children's novel by Rick Riordan. The opening installment in the series Percy Jackson & the Olympians, the book was recognized among the year's best for children",
+    rating: 4,
+    isbn: 9783442268467,
+  },
+  {
+    image: "the-curse-of-the-black-pearl.jpg",
+    name: "Pirates of the Caribbean: The Curse of the Black Pearl",
+    pages: 853,
+    author: "George R. R. Martin",
+    description:
+      "The novel follows multiple storylines as the War of the Five Kings intensifies, Daenerys Targaryen builds her forces in the East, and the Night's Watch faces a growing threat from the Others beyond the Wall",
     rating: 4,
     isbn: 9783442268467,
   },
