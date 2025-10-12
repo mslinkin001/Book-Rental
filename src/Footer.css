@@ -1,8 +1,8 @@
 .footer {
   font-family: "Poppins", Courier, monospace;
   background-color: rgba(255, 255, 0, 1);
-  display: flex;
   justify-content: end;
+  display: flex;
 }
 
 .footer-column {
