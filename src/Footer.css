@@ -1,0 +1,32 @@
+.footer {
+  font-family: "Poppins", Courier, monospace;
+  background-color: rgba(255, 255, 0, 1);
+  display: flex;
+  justify-content: end;
+}
+
+.footer-column {
+  margin: 10px;
+  padding: 20px 10px 20px 0px;
+  width: 15%;
+  align-items: center;
+  align-items: start;
+}
+
+hr {
+  border: 0.01em solid #000000;
+}
+
+.footer-headings {
+  color: #000000;
+}
+
+.footer-option a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.footer-option a:hover {
+  text-decoration: underline;
+  color: #000000;
+}

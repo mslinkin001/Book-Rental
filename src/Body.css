@@ -1,0 +1,29 @@
+.books {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.book {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #d6d6d6;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+  align-items: start;
+  transition: 0.5s;
+}
+
+img {
+  margin-top: 20px;
+  border-radius: 4px;
+  width: 150px;
+}
+
+.book-description {
+  text-align: left;
+}
