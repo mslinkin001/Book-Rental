@@ -59,7 +59,7 @@ const books = [
     pages: 853,
     author: "George R. R. Martin",
     description:
-      "The novel follows multiple storylines as the War of the Five Kings intensifies, Daenerys Targaryen builds her forces in the East, and the Night's Watch faces a growing threat from the Others beyond the Wall",
+      "Will, a blacksmith, joins forces with Captain Jack Sparrow, a pirate, to rescue the love of his life from Jack's associates, who have kidnapped her suspecting she has his medallion.",
     rating: 4,
     isbn: 9783442268467,
   },
