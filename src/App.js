@@ -78,7 +78,7 @@ const footerOptions = [
   },
   {
     heading: "About Us",
-    options: ["About Us", "Store Locator", "Blogs"],
+    options: ["About Us", "Store Locator", "Blogs", "Policies"],
   },
   {
     heading: "Get in Touch",
